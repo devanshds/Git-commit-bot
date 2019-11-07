@@ -1,7 +1,7 @@
 # Git-commit-bot for Windows
 A git commit generator that can commit repositories to boost your profile contributions.
 
-![alt text](https://i.imgur.com/Z6u4SLX.png)
+![alt text](https://i.imgur.com/TYxWo2q.png)
 
 It is a fairly simple and efficient script that works by renaming a single empty text file and commiting the changes. Feel free to test it for yourself.
 
