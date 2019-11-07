@@ -9,7 +9,6 @@ It is a fairly simple and efficient script that works by renaming a single empty
 - Windows Commandline
 - Python3
 
-_Will grow later_
 
 ## How To Install:
 To run the script type the following commands in CMD:
@@ -23,17 +22,20 @@ cd Git-commit-bot
 python commitbot.py
 ```
 The script will be executed.
+![alt text](https://i.imgur.com/L2MvLU2.png)
 
 ## Usage:
   The script needs two parameters to run correctly: Repository name & Repository URL
   - Create an empty repository beforehand without README.md .
-  - Use on private repository to hide commit history.
   - Make sure the repository name is the same as the empty repository you created before running the script.
   - You may be asked for username and password.
-  - It may some time to execute the commits.
+  - And within minutes you will have more commits than you had before.
+  
+  The repository will come out looking like this so might wanna make it private
+  
+  ![alt text](https://i.imgur.com/JiqjXYf.png)
 
-##  Sidenote:
+##  Notes:
   - I made this purely for learning purposes and out of curiosity. 
-  - Use at your own risk.
-  - Also, you can extend its functionality to linux if you have experience with shell.
+  - You can extend its functionality to linux if you have experience with shell.
   - For the curious souls, I myself, am not using this.
