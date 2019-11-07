@@ -34,3 +34,4 @@ The script will be executed.
   - I made this purely for learning purposes and out of curiosity. 
   - Use at your own risk.
   - Also, you can extend its functionality to linux if you have experience with shell.
+  - For the curious souls, I myself, am not using this.
